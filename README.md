@@ -28,7 +28,6 @@ Vocabulary [arXiv dataset and metadata of 1.7M+ scholarly papers across STEM ](h
 
 [academic torrents](https://academictorrents.com/)
 
-GPT-Neox automatically creates these words
 
 # translate
 [Apertium](https://github.com/apertium) to make them translate to other languages
