@@ -14,9 +14,21 @@ The Constructed language I created with [GPT-Neox](https://github.com/EleutherAI
 All together, these properties ensure a language that is precise and easy to use.
 
 # Word Source Data
+> GPT-Neox automatically creates these words
+
 [The Metathesaurus forms the base of the UMLS and comprises over 1 million biomedical concepts and 5 million concept namesThere are 5 million words in medicine](https://www.nlm.nih.gov/research/umls/licensedcontent/umlsknowledgesources.html
-),
- Vocabulary [arXiv dataset and metadata of 1.7M+ scholarly papers across STEM ](https://www.kaggle.com/datasets/Cornell-University/arxiv) GPT-Neox automatically creates these words
+)
+
+Vocabulary [arXiv dataset and metadata of 1.7M+ scholarly papers across STEM ](https://www.kaggle.com/datasets/Cornell-University/arxiv)
+
+---
+[Wikidata:Database](https://www.wikidata.org/wiki/Wikidata:Database_download)
+
+[Wikimedia Database](https://dumps.wikimedia.org/)
+
+[academic torrents](https://academictorrents.com/)
+
+GPT-Neox automatically creates these words
 
 # translate
 [Apertium](https://github.com/apertium) to make them translate to other languages
@@ -32,6 +44,8 @@ Build [TTS](https://github.com/coqui-ai/TTS)
 [FrathWiki's goal](https://www.frathwiki.com/FrathWiki:Goals) is to collect information about conlangs
 
 ## Other
+[computational linguistics and natural language processing](https://academictorrents.com/)
+
 [Some logical language](https://loglangs.wiki/Portal)
 
 # Contact
