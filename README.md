@@ -28,12 +28,15 @@ Vocabulary [arXiv dataset and metadata of 1.7M+ scholarly papers across STEM ](h
 
 [academic torrents](https://academictorrents.com/)
 
+[word2word](https://github.com/kakaobrain/word2word)
 
 # translate
 [Apertium](https://github.com/apertium) to make them translate to other languages
 
 # TTS
-Build [TTS](https://github.com/coqui-ai/TTS)
+Build [TTS](https://github.com/coqui-ai/TTS) and [bark
+](https://github.com/suno-ai/bark)
+
 
 # Script
 [FontForge](https://github.com/fontforge/fontforge), [FontForge tutorials](https://www.youtube.com/playlist?list=PLAh1LrrdjJQh8vJCqik4xidgTlxoWhiWY)
