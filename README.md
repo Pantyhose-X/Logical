@@ -1,4 +1,9 @@
-# Logical 
+> #### English strengths and weaknesses,
+> English is certainly a difficult language to learn, yet it is essential in this globalized world. Its advantages lie in the fact that English is the language used in much of the scientific community, as well as the international business sector. One must be proficient in English to access scientific knowledge, business practices and communications across the globe. Additionally, its widespread use ensures that any sort of written document can be shared in most parts of the world, making it a powerful communication tool. 
+
+> On the other hand, English can also be a weakness. Its large amount of irregular spellings, double and sometimes triple negative sentences, and abundance of verb tenses can be a challenge for many learners. Furthermore, for someone who is learning English for the first time, having to compete with native English speakers in academic and professional settings can be a major source of discouragement.
+
+# WHY Logical ?
 The Constructed language I created with [GPT-Neox](https://github.com/EleutherAI/gpt-neox) is simple and logical. It is composed of five core properties:
 
 1. Grammatical Rules – Constructed language is based on a series of logical, formalized rules that allow for complex sentence structure. There are no ambiguities in the grammar, and no exceptions to the rules.
