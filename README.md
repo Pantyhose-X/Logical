@@ -35,7 +35,13 @@ Vocabulary [arXiv dataset and metadata of 1.7M+ scholarly papers across STEM ](h
 
 [Common Crawl](https://commoncrawl.org/the-data/get-started/)
 
+[OpenSubtitles](https://opus.nlpl.eu/OpenSubtitles.php)
+
 [OPUS](https://opus.nlpl.eu/index.php)
+
+[CCMatrix v1](https://opus.nlpl.eu/CCMatrix.php)
+
+[huggingface](https://huggingface.co/datasets?task_categories=task_categories%3Atranslation&language=language%3Aen&sort=downloads)
 
 [word2word](https://github.com/kakaobrain/word2word)
 
