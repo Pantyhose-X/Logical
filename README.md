@@ -60,7 +60,7 @@ Build [TTS](https://github.com/coqui-ai/TTS) and [bark
 [FrathWiki's goal](https://www.frathwiki.com/FrathWiki:Goals) is to collect information about conlangs
 
 ## Other
-[computational linguistics and natural language processing](https://academictorrents.com/)
+[computational linguistics and natural language processing](https://aclanthology.org/volumes/)
 
 [Some logical language](https://loglangs.wiki/Portal)
 
