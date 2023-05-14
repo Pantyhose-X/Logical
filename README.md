@@ -33,7 +33,16 @@ Vocabulary [arXiv dataset and metadata of 1.7M+ scholarly papers across STEM ](h
 
 [academic torrents](https://academictorrents.com/)
 
+[Common Crawl](https://commoncrawl.org/the-data/get-started/)
+
+[OPUS](https://opus.nlpl.eu/index.php)
+
 [word2word](https://github.com/kakaobrain/word2word)
+
+---
+[zenodo](https://zenodo.org/record/5847100)
+
+[DCS Corpus](http://www.sanskrit-linguistics.org/dcs/index.php?contents=corpus)
 
 # translate
 [Apertium](https://github.com/apertium) to make them translate to other languages
