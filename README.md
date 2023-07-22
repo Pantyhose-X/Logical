@@ -27,6 +27,7 @@ All together, these properties ensure a language that is precise and easy to use
 Vocabulary [arXiv dataset and metadata of 1.7M+ scholarly papers across STEM ](https://www.kaggle.com/datasets/Cornell-University/arxiv)
 
 ---
+[VISL](https://visl.sdu.dk/visl2/corpus_linguistics.html)
 [Wikidata:Database](https://www.wikidata.org/wiki/Wikidata:Database_download)
 
 [Wikimedia Database](https://dumps.wikimedia.org/)
